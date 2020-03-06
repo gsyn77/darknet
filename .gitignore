@@ -57,3 +57,11 @@ uselib_track
 darknet
 build-release
 __pycache__
+/cmake-build-debug
+.idea
+/snowman.log
+/test.mp4
+/bad.list
+/predictions.jpg
+/darknet-params.txt
+/darknet53.conv.74
